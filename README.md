@@ -2,6 +2,8 @@
 
 Bienvenue dans ce cours passionnant où nous allons nous plonger dans le développement de jeux vidéo en créant notre propre version de Bomberman avec Unity ! 🎮
 
+![Bomberman.gif](Création-Du-Jeu/Images/Bomberman.gif)
+
 ## Histoire de Bomberman 🕹️
 
 Bomberman est un classique intemporel des jeux vidéo, développé par Hudson Soft et lancé à l'origine en 1983. Le jeu a fait ses débuts sur des plateformes comme le Ness et le NES et a rapidement captivé l'imagination des joueurs du monde entier. Avec son gameplay simple mais addictif, Bomberman est devenu un incontournable des soirées de jeu entre amis et des compétitions multijoueurs. 💣🎉
